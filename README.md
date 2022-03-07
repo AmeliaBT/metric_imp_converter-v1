@@ -1,1 +1,3 @@
-# metric_imp_converter-v1
+
+SET NODE_ENV to `test` without quotes
+
